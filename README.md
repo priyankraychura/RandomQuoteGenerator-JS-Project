@@ -2,6 +2,13 @@
 
 A simple JavaScript project that generates random quotes at the click of a button. The Random Quote Generator also includes additional features such as speaking the quote, copying it to the clipboard, and sharing it on Twitter.
 
+## 🌐 Live Demo
+
+Check out the live version of the project here:  
+**[Random Quote Generator on Vercel](https://random-quote-generator-js-project.vercel.app/)**
+
+![Vercel Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)
+
 ## 📖 Features
 
 - **Random Quotes**: Generates a new random quote from a collection of quotes each time the button is clicked.
